@@ -645,12 +645,7 @@ wrestlerArray = [
     age: 8.2,
     weightAdjustedRating: 4937.4,
   },
-  {
-    name: "Gavin Lane",
-    weight: 78.4,
-    age: 10.7,
-    weightAdjustedRating: 6912.4,
-  },
+
   {
     name: "Michael Cerullo",
     weight: 78,
