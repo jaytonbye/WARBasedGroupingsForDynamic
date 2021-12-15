@@ -1,0 +1,1314 @@
+[
+  {
+    "name": "Jaden Rodriguez",
+    "weight": 175,
+    "age": 15.8,
+    "weightAdjustedRating": 10029.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Marino Mancuso",
+    "weight": 173.6,
+    "age": 17.8,
+    "weightAdjustedRating": 10659.4,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Tristin Colon",
+    "weight": 169,
+    "age": 16.8,
+    "weightAdjustedRating": 9475.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Christopher Martinez",
+    "weight": 163.6,
+    "age": 15.9,
+    "weightAdjustedRating": 9449.6,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Steven Torres",
+    "weight": 163.5,
+    "age": 12.6,
+    "weightAdjustedRating": 8756.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Chris Reddy",
+    "weight": 163,
+    "age": 14.8,
+    "weightAdjustedRating": 9476.9,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Gabe DeMarco",
+    "weight": 162,
+    "age": 17,
+    "weightAdjustedRating": 10192.6,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Edwin Claros",
+    "weight": 160,
+    "age": 19.8,
+    "weightAdjustedRating": 10600,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Gavin Cirolli",
+    "weight": 157.8,
+    "age": 16.6,
+    "weightAdjustedRating": 10067.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "WayneCarl Barker",
+    "weight": 157.6,
+    "age": 21.9,
+    "weightAdjustedRating": 10270.4,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Michael Reynolds",
+    "weight": 155,
+    "age": 17,
+    "weightAdjustedRating": 9254.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Marc Kleyman",
+    "weight": 154.2,
+    "age": 18,
+    "weightAdjustedRating": 9876.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Cosmo Stoia",
+    "weight": 153,
+    "age": 18.7,
+    "weightAdjustedRating": 10289.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "manaen capellan",
+    "weight": 152,
+    "age": 13.2,
+    "weightAdjustedRating": 8347.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Bobby Constantatos",
+    "weight": 152,
+    "age": 15.2,
+    "weightAdjustedRating": 8169.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Diego Martinez",
+    "weight": 149.8,
+    "age": 14.7,
+    "weightAdjustedRating": 8606.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "John Caccavale",
+    "weight": 149,
+    "age": 15.2,
+    "weightAdjustedRating": 9298.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Joshua Flores",
+    "weight": 144,
+    "age": 14.3,
+    "weightAdjustedRating": 9237,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Nick Zins",
+    "weight": 140.4,
+    "age": 13.9,
+    "weightAdjustedRating": 8707.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Ryan Eckerle",
+    "weight": 138,
+    "age": 16.3,
+    "weightAdjustedRating": 9262.4,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Erik Zakiewicz",
+    "weight": 138,
+    "age": 13.2,
+    "weightAdjustedRating": 8377.3,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Max Casiano",
+    "weight": 137,
+    "age": 15.4,
+    "weightAdjustedRating": 8744.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Ibrahim Khan",
+    "weight": 137,
+    "age": 17,
+    "weightAdjustedRating": 8569.6,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "ian searing",
+    "weight": 137,
+    "age": 14.3,
+    "weightAdjustedRating": 8583.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Charlie Olaechea",
+    "weight": 136,
+    "age": 15.1,
+    "weightAdjustedRating": 9440.3,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Nolan Ford",
+    "weight": 136,
+    "age": 15.8,
+    "weightAdjustedRating": 8772.7,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Jayden Medina",
+    "weight": 135,
+    "age": 14.9,
+    "weightAdjustedRating": 8428.7,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Hamza Khan",
+    "weight": 134.8,
+    "age": 14.9,
+    "weightAdjustedRating": 8662.3,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Christopher Boettger-Smolich",
+    "weight": 132.8,
+    "age": 16,
+    "weightAdjustedRating": 8223.4,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Kwesi Amoa",
+    "weight": 132,
+    "age": 19.7,
+    "weightAdjustedRating": 9558.3,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Derek Marcucci",
+    "weight": 131,
+    "age": 12.6,
+    "weightAdjustedRating": 7757.3,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Jacob Coral",
+    "weight": 129,
+    "age": 17.5,
+    "weightAdjustedRating": 9155.6,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Tommaso Clarke",
+    "weight": 128,
+    "age": 14.8,
+    "weightAdjustedRating": 8109.3,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Joshua Benitez",
+    "weight": 128,
+    "age": 15,
+    "weightAdjustedRating": 7777.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Jake Boldi",
+    "weight": 127.2,
+    "age": 14.2,
+    "weightAdjustedRating": 7222.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Sean Searing",
+    "weight": 127,
+    "age": 13.3,
+    "weightAdjustedRating": 8115.3,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Logan Alfalla",
+    "weight": 124,
+    "age": 14.1,
+    "weightAdjustedRating": 8956.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Cristian Medina",
+    "weight": 121,
+    "age": 15.5,
+    "weightAdjustedRating": 8070.3,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "vasilios katranis",
+    "weight": 119,
+    "age": 14.5,
+    "weightAdjustedRating": 7636.9,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Jonathan Fox",
+    "weight": 118.8,
+    "age": 13.9,
+    "weightAdjustedRating": 8645.7,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Sean Campbell",
+    "weight": 117,
+    "age": 16,
+    "weightAdjustedRating": 9168.3,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Jason Kwaak",
+    "weight": 114,
+    "age": 14.2,
+    "weightAdjustedRating": 8969.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Vasili Ragavanis",
+    "weight": 113.2,
+    "age": 14.8,
+    "weightAdjustedRating": 8693.6,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Amari Murray",
+    "weight": 113,
+    "age": 11.9,
+    "weightAdjustedRating": 7478,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Yerik Guardado",
+    "weight": 113,
+    "age": 11.7,
+    "weightAdjustedRating": 6777.9,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Lex Luthor Key",
+    "weight": 112.2,
+    "age": 12.5,
+    "weightAdjustedRating": 6577.6,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "jason euceda",
+    "weight": 112,
+    "age": 15.4,
+    "weightAdjustedRating": 8567.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Christian Caccavale",
+    "weight": 111.4,
+    "age": 12.4,
+    "weightAdjustedRating": 7217.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Kingston Strouse",
+    "weight": 110.4,
+    "age": 13.8,
+    "weightAdjustedRating": 7483.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Camryn Howard",
+    "weight": 110,
+    "age": 12.4,
+    "weightAdjustedRating": 8624.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Anthony Severino",
+    "weight": 110,
+    "age": 12.9,
+    "weightAdjustedRating": 7493.9,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Michael Murphy",
+    "weight": 110,
+    "age": 14.1,
+    "weightAdjustedRating": 7325.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Michael Cea",
+    "weight": 108.6,
+    "age": 13.7,
+    "weightAdjustedRating": 6740.7,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Gryffin Alfalla",
+    "weight": 108,
+    "age": 12.4,
+    "weightAdjustedRating": 7822.3,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "jack sklar",
+    "weight": 107,
+    "age": 16.4,
+    "weightAdjustedRating": 7784.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Ryan Maiorana",
+    "weight": 106.2,
+    "age": 14.6,
+    "weightAdjustedRating": 7843.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Jackson Ainsley",
+    "weight": 101.4,
+    "age": 11.2,
+    "weightAdjustedRating": 7248.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Michael Kerr",
+    "weight": 100,
+    "age": 15,
+    "weightAdjustedRating": 7897.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Julian Medina",
+    "weight": 99.8,
+    "age": 13.7,
+    "weightAdjustedRating": 6925.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Kyle Francis",
+    "weight": 99.8,
+    "age": 11.6,
+    "weightAdjustedRating": 7158.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Max Granville",
+    "weight": 99,
+    "age": 12.3,
+    "weightAdjustedRating": 6366.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Jack Mcdonnell",
+    "weight": 99,
+    "age": 12.6,
+    "weightAdjustedRating": 5879.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Niason Dacosta",
+    "weight": 98,
+    "age": 13.8,
+    "weightAdjustedRating": 8220.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Ryan Muller",
+    "weight": 97,
+    "age": 12.1,
+    "weightAdjustedRating": 6105.7,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "logan durant",
+    "weight": 96.2,
+    "age": 8.8,
+    "weightAdjustedRating": 5465.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Tyler Brown",
+    "weight": 94.8,
+    "age": 7.5,
+    "weightAdjustedRating": 5643.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Darren chandarjit",
+    "weight": 90,
+    "age": 10.3,
+    "weightAdjustedRating": 6021.9,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Matt McDermott",
+    "weight": 87,
+    "age": 11.5,
+    "weightAdjustedRating": 7554.6,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Lukas Ryan",
+    "weight": 85.6,
+    "age": 11.1,
+    "weightAdjustedRating": 6792.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "joseph kokolakis",
+    "weight": 83.4,
+    "age": 10.8,
+    "weightAdjustedRating": 5597,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Joshua Bender",
+    "weight": 83.4,
+    "age": 12.6,
+    "weightAdjustedRating": 6247.9,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Dylan Tuthill",
+    "weight": 82.8,
+    "age": 10.9,
+    "weightAdjustedRating": 6290,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Lucas Weidler",
+    "weight": 82,
+    "age": 9.8,
+    "weightAdjustedRating": 4727.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Anthony Ciaramitaro",
+    "weight": 81.2,
+    "age": 11.6,
+    "weightAdjustedRating": 5195.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Nikita \"The Guillotine\" Grigoryan",
+    "weight": 79,
+    "age": 12.4,
+    "weightAdjustedRating": 6544.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Giuseppe Calabrese",
+    "weight": 79,
+    "age": 10.6,
+    "weightAdjustedRating": 5714.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Jimmy Wynne",
+    "weight": 79,
+    "age": 8.2,
+    "weightAdjustedRating": 4937.4,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Kevin \"The Beast\" Rivas",
+    "weight": 78.6,
+    "age": 12.3,
+    "weightAdjustedRating": 6249.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Gavin Lane",
+    "weight": 78.4,
+    "age": 10.8,
+    "weightAdjustedRating": 6912.4,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Michael Cerullo",
+    "weight": 78,
+    "age": 10.4,
+    "weightAdjustedRating": 5380.7,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Paul Testa",
+    "weight": 76.4,
+    "age": 10.8,
+    "weightAdjustedRating": 5949,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Lorenzo Gaudioso",
+    "weight": 76,
+    "age": 10.7,
+    "weightAdjustedRating": 4600.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "AJ Porelli",
+    "weight": 75.2,
+    "age": 11.5,
+    "weightAdjustedRating": 5400.6,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Luca Visalli",
+    "weight": 75,
+    "age": 7.2,
+    "weightAdjustedRating": 4672.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Antonio Faldetta",
+    "weight": 75,
+    "age": 12.8,
+    "weightAdjustedRating": 6398,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Xavier \"XMAN\" Seabury",
+    "weight": 74.2,
+    "age": 11.2,
+    "weightAdjustedRating": 6741.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Vincent Orandello",
+    "weight": 74,
+    "age": 13.1,
+    "weightAdjustedRating": 6521.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Ayden Labella",
+    "weight": 74,
+    "age": 13.5,
+    "weightAdjustedRating": 5604,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Stefan Bacchus",
+    "weight": 73.8,
+    "age": 11.2,
+    "weightAdjustedRating": 5214.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Greg Bellisari",
+    "weight": 73.8,
+    "age": 10.2,
+    "weightAdjustedRating": 5338.7,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Jon Mohr",
+    "weight": 73.5,
+    "age": 8.2,
+    "weightAdjustedRating": 4088.3,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Tyler Conzo",
+    "weight": 73.2,
+    "age": 11.3,
+    "weightAdjustedRating": 6845.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Colton Riordan",
+    "weight": 71.4,
+    "age": 9.1,
+    "weightAdjustedRating": 5674.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Benjamin Marino",
+    "weight": 71.2,
+    "age": 10.8,
+    "weightAdjustedRating": 5602.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Joseph Costanza",
+    "weight": 71,
+    "age": 8.5,
+    "weightAdjustedRating": 5237,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Ethan \"the thin\" Hauser",
+    "weight": 71,
+    "age": 12.4,
+    "weightAdjustedRating": 6469.9,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Tyler Hohlman",
+    "weight": 70.2,
+    "age": 10.5,
+    "weightAdjustedRating": 5473.9,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Matteo Mancuso",
+    "weight": 70,
+    "age": 10.1,
+    "weightAdjustedRating": 5207.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Riley Hohlman",
+    "weight": 69,
+    "age": 8.8,
+    "weightAdjustedRating": 5066.9,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Adam Giunta",
+    "weight": 68.8,
+    "age": 7.9,
+    "weightAdjustedRating": 4694.6,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Anthony Messina",
+    "weight": 68.2,
+    "age": 9,
+    "weightAdjustedRating": 4804.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Gavin \"The Spider\" Beauchamp",
+    "weight": 68,
+    "age": 10,
+    "weightAdjustedRating": 5538.6,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Mason Zabielski",
+    "weight": 68,
+    "age": 9.9,
+    "weightAdjustedRating": 5002.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Dominick Visalli",
+    "weight": 67.6,
+    "age": 8.5,
+    "weightAdjustedRating": 4456.7,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Paul Cozzi",
+    "weight": 67.6,
+    "age": 8,
+    "weightAdjustedRating": 4918.6,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Santino Pascarella",
+    "weight": 67,
+    "age": 10.8,
+    "weightAdjustedRating": 5578.6,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Aden Smith",
+    "weight": 67,
+    "age": 6.9,
+    "weightAdjustedRating": 3793.6,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Riley Goodrich",
+    "weight": 67,
+    "age": 8.6,
+    "weightAdjustedRating": 5097.3,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Ryan Zabielski",
+    "weight": 66.6,
+    "age": 11.4,
+    "weightAdjustedRating": 5016.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Hunter Alfalla",
+    "weight": 66,
+    "age": 8.6,
+    "weightAdjustedRating": 4527.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Michael Mcmahon",
+    "weight": 65,
+    "age": 8.6,
+    "weightAdjustedRating": 4791.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "David \"The Bounty Hunter\" Grigoryan",
+    "weight": 63.6,
+    "age": 10.1,
+    "weightAdjustedRating": 4845.9,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Jake Kiernan",
+    "weight": 63.4,
+    "age": 9.6,
+    "weightAdjustedRating": 4688.6,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Alexander Canosa",
+    "weight": 63,
+    "age": 9.5,
+    "weightAdjustedRating": 4224.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Junior Perez",
+    "weight": 62.8,
+    "age": 9,
+    "weightAdjustedRating": 5299.7,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Andrew Caliente",
+    "weight": 62.6,
+    "age": 9,
+    "weightAdjustedRating": 4346.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Eric Bocanegra",
+    "weight": 61.5,
+    "age": 13,
+    "weightAdjustedRating": 5460.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "William Hall",
+    "weight": 60.2,
+    "age": 8.3,
+    "weightAdjustedRating": 3463.4,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Colton Louderback",
+    "weight": 60.2,
+    "age": 8.7,
+    "weightAdjustedRating": 4856.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Liam Foley",
+    "weight": 58.2,
+    "age": 6.6,
+    "weightAdjustedRating": 3479.3,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Brody Bruno",
+    "weight": 58,
+    "age": 7.5,
+    "weightAdjustedRating": 3382.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Ryker Brown",
+    "weight": 58,
+    "age": 6.4,
+    "weightAdjustedRating": 2861.7,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Dylan Herbert",
+    "weight": 57,
+    "age": 10.2,
+    "weightAdjustedRating": 4286.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Jackson Hull",
+    "weight": 57,
+    "age": 9.4,
+    "weightAdjustedRating": 4067.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Robert Udle",
+    "weight": 56.8,
+    "age": 7.4,
+    "weightAdjustedRating": 3301.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Connor Hanly",
+    "weight": 56.6,
+    "age": 9.5,
+    "weightAdjustedRating": 4337.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Chase Galvez",
+    "weight": 56,
+    "age": 9.7,
+    "weightAdjustedRating": 4665.3,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Tristan Reddy",
+    "weight": 56,
+    "age": 6.7,
+    "weightAdjustedRating": 2574.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Brandon Rose",
+    "weight": 55.8,
+    "age": 8.3,
+    "weightAdjustedRating": 3394.9,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Richie Tietjen",
+    "weight": 55,
+    "age": 8.7,
+    "weightAdjustedRating": 3562.5,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Peter Palumbo",
+    "weight": 54.4,
+    "age": 7.7,
+    "weightAdjustedRating": 3167.7,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Frank Vesce",
+    "weight": 54.4,
+    "age": 7.1,
+    "weightAdjustedRating": 1935,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "George Byrd",
+    "weight": 53.4,
+    "age": 5.9,
+    "weightAdjustedRating": 2205,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Brandon Costello",
+    "weight": 53.2,
+    "age": 8,
+    "weightAdjustedRating": 2924.7,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Alex Loglisci",
+    "weight": 52.6,
+    "age": 9.6,
+    "weightAdjustedRating": 3584.3,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Maxim Auguste",
+    "weight": 52.6,
+    "age": 7.7,
+    "weightAdjustedRating": 3366.7,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Andrew Palumbo",
+    "weight": 52.6,
+    "age": 7.7,
+    "weightAdjustedRating": 2780.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "richard didonato",
+    "weight": 51.6,
+    "age": 5.8,
+    "weightAdjustedRating": 1909.4,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Jackson Takseraas",
+    "weight": 50.6,
+    "age": 7.7,
+    "weightAdjustedRating": 2759.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Giancarlo Ficalora",
+    "weight": 50.2,
+    "age": 5.9,
+    "weightAdjustedRating": 2338.9,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Riely Autera",
+    "weight": 50,
+    "age": 8,
+    "weightAdjustedRating": 2647.3,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Greyson Larkin",
+    "weight": 49.4,
+    "age": 4.7,
+    "weightAdjustedRating": 2197.6,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Tristan Batohie",
+    "weight": 49,
+    "age": 7,
+    "weightAdjustedRating": 2747.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Logan Moskowitz",
+    "weight": 48,
+    "age": 6.2,
+    "weightAdjustedRating": 1242.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Anthony DellUniversita",
+    "weight": 47.6,
+    "age": 5.8,
+    "weightAdjustedRating": 1815.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Logan Hull",
+    "weight": 47.2,
+    "age": 6,
+    "weightAdjustedRating": 1976.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Jameson Costello",
+    "weight": 47,
+    "age": 6.5,
+    "weightAdjustedRating": 2424.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Woody Cromarty",
+    "weight": 47,
+    "age": 5.9,
+    "weightAdjustedRating": 1328.1,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Griffin Caliente",
+    "weight": 46.6,
+    "age": 6.7,
+    "weightAdjustedRating": 2845.9,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Colton Stebbins",
+    "weight": 46.6,
+    "age": 5.6,
+    "weightAdjustedRating": 2239,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "joshua castro",
+    "weight": 46.4,
+    "age": 6.9,
+    "weightAdjustedRating": 3107.9,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Dean Carmel",
+    "weight": 45.2,
+    "age": 8.7,
+    "weightAdjustedRating": 3299.4,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Justin Cerullo",
+    "weight": 43.6,
+    "age": 6.5,
+    "weightAdjustedRating": 2234.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Joseph Canosa",
+    "weight": 43,
+    "age": 6.2,
+    "weightAdjustedRating": 2235.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Wesley Lasen",
+    "weight": 42.2,
+    "age": 5.9,
+    "weightAdjustedRating": 1718.9,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Anthony Giannuzzi",
+    "weight": 42,
+    "age": 5.8,
+    "weightAdjustedRating": 1103.7,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Enzo Algieri",
+    "weight": 40,
+    "age": 5.5,
+    "weightAdjustedRating": 1254.7,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Logan Galvez",
+    "weight": 39.6,
+    "age": 6.6,
+    "weightAdjustedRating": 3146.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Colton Takseraas",
+    "weight": 39.6,
+    "age": 5.2,
+    "weightAdjustedRating": 1106.9,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "William Garcia",
+    "weight": 37,
+    "age": 4.1,
+    "weightAdjustedRating": 299.8,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Stephan Kroski",
+    "weight": 33,
+    "age": 3.7,
+    "weightAdjustedRating": 114.2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Gibson Takseraas",
+    "weight": 32.6,
+    "age": 3.8,
+    "weightAdjustedRating": -306.9,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Dalton Takseraas",
+    "weight": 32.4,
+    "age": 3.8,
+    "weightAdjustedRating": -93,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "Darian Bacchus",
+    "weight": 32,
+    "age": 4.7,
+    "weightAdjustedRating": 1329.1,
+    "phone": 1,
+    "email": ""
+  }
+]

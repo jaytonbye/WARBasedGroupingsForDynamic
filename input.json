@@ -1,0 +1,1642 @@
+[
+  {
+    "ID": 715,
+    "Name": "Jaden Rodriguez",
+    "Weight": "175 lbs",
+    "Age": "15.8 years",
+    "Weight-Adjusted Rating": 10029.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 492,
+    "Name": "Marino Mancuso",
+    "Weight": "173.6 lbs",
+    "Age": "17.8 years",
+    "Weight-Adjusted Rating": 10659.4,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3370,
+    "Name": "Tristin Colon",
+    "Weight": "169 lbs",
+    "Age": "16.8 years",
+    "Weight-Adjusted Rating": 9475.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 5153,
+    "Name": "Christopher Martinez",
+    "Weight": "163.6 lbs",
+    "Age": "15.9 years",
+    "Weight-Adjusted Rating": 9449.6,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4040,
+    "Name": "Steven Torres",
+    "Weight": "163.5 lbs",
+    "Age": "12.6 years",
+    "Weight-Adjusted Rating": 8756.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3752,
+    "Name": "Chris Reddy",
+    "Weight": "163 lbs",
+    "Age": "14.8 years",
+    "Weight-Adjusted Rating": 9476.9,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 712,
+    "Name": "Gabe DeMarco",
+    "Weight": "162 lbs",
+    "Age": "17 years",
+    "Weight-Adjusted Rating": 10192.6,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1770,
+    "Name": "Edwin Claros",
+    "Weight": "160 lbs",
+    "Age": "19.8 years",
+    "Weight-Adjusted Rating": 10600,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1690,
+    "Name": "Gavin Cirolli",
+    "Weight": "157.8 lbs",
+    "Age": "16.6 years",
+    "Weight-Adjusted Rating": 10067.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1707,
+    "Name": "WayneCarl Barker",
+    "Weight": "157.6 lbs",
+    "Age": "21.9 years",
+    "Weight-Adjusted Rating": 10270.4,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 689,
+    "Name": "Michael Reynolds",
+    "Weight": "155 lbs",
+    "Age": "17 years",
+    "Weight-Adjusted Rating": 9254.8,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 484,
+    "Name": "Marc Kleyman",
+    "Weight": "154.2 lbs",
+    "Age": "18 years",
+    "Weight-Adjusted Rating": 9876.8,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 593,
+    "Name": "Cosmo Stoia",
+    "Weight": "153 lbs",
+    "Age": "18.7 years",
+    "Weight-Adjusted Rating": 10289.2,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1457,
+    "Name": "manaen capellan",
+    "Weight": "152 lbs",
+    "Age": "13.2 years",
+    "Weight-Adjusted Rating": 8347.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1836,
+    "Name": "Bobby Constantatos",
+    "Weight": "152 lbs",
+    "Age": "15.2 years",
+    "Weight-Adjusted Rating": 8169.8,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4345,
+    "Name": "Diego Martinez",
+    "Weight": "149.8 lbs",
+    "Age": "14.7 years",
+    "Weight-Adjusted Rating": 8606.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 975,
+    "Name": "John Caccavale",
+    "Weight": "149 lbs",
+    "Age": "15.2 years",
+    "Weight-Adjusted Rating": 9298.2,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3166,
+    "Name": "Joshua Flores",
+    "Weight": "144 lbs",
+    "Age": "14.3 years",
+    "Weight-Adjusted Rating": 9237,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1218,
+    "Name": "Nick Zins",
+    "Weight": "140.4 lbs",
+    "Age": "13.9 years",
+    "Weight-Adjusted Rating": 8707.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 646,
+    "Name": "Ryan Eckerle",
+    "Weight": "138 lbs",
+    "Age": "16.3 years",
+    "Weight-Adjusted Rating": 9262.4,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3765,
+    "Name": "Erik Zakiewicz",
+    "Weight": "138 lbs",
+    "Age": "13.2 years",
+    "Weight-Adjusted Rating": 8377.3,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 990,
+    "Name": "Max Casiano",
+    "Weight": "137 lbs",
+    "Age": "15.4 years",
+    "Weight-Adjusted Rating": 8744.8,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1297,
+    "Name": "Ibrahim Khan",
+    "Weight": "137 lbs",
+    "Age": "17 years",
+    "Weight-Adjusted Rating": 8569.6,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1766,
+    "Name": "ian searing",
+    "Weight": "137 lbs",
+    "Age": "14.3 years",
+    "Weight-Adjusted Rating": 8583.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 618,
+    "Name": "Charlie Olaechea",
+    "Weight": "136 lbs",
+    "Age": "15.1 years",
+    "Weight-Adjusted Rating": 9440.3,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1762,
+    "Name": "Nolan Ford",
+    "Weight": "136 lbs",
+    "Age": "15.8 years",
+    "Weight-Adjusted Rating": 8772.7,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2367,
+    "Name": "Jayden Medina",
+    "Weight": "135 lbs",
+    "Age": "14.9 years",
+    "Weight-Adjusted Rating": 8428.7,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4787,
+    "Name": "Hamza Khan",
+    "Weight": "134.8 lbs",
+    "Age": "14.9 years",
+    "Weight-Adjusted Rating": 8662.3,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4601,
+    "Name": "Christopher Boettger-Smolich",
+    "Weight": "132.8 lbs",
+    "Age": "16 years",
+    "Weight-Adjusted Rating": 8223.4,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2423,
+    "Name": "Kwesi Amoa",
+    "Weight": "132 lbs",
+    "Age": "19.7 years",
+    "Weight-Adjusted Rating": 9558.3,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4614,
+    "Name": "Derek Marcucci",
+    "Weight": "131 lbs",
+    "Age": "12.6 years",
+    "Weight-Adjusted Rating": 7757.3,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2714,
+    "Name": "Jacob Coral",
+    "Weight": "129 lbs",
+    "Age": "17.5 years",
+    "Weight-Adjusted Rating": 9155.6,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 946,
+    "Name": "Tommaso Clarke",
+    "Weight": "128 lbs",
+    "Age": "14.8 years",
+    "Weight-Adjusted Rating": 8109.3,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4360,
+    "Name": "Joshua Benitez",
+    "Weight": "128 lbs",
+    "Age": "15 years",
+    "Weight-Adjusted Rating": 7777.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3104,
+    "Name": "Jake Boldi",
+    "Weight": "127.2 lbs",
+    "Age": "14.2 years",
+    "Weight-Adjusted Rating": 7222.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1767,
+    "Name": "Sean Searing",
+    "Weight": "127 lbs",
+    "Age": "13.3 years",
+    "Weight-Adjusted Rating": 8115.3,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 538,
+    "Name": "Logan Alfalla",
+    "Weight": "124 lbs",
+    "Age": "14.1 years",
+    "Weight-Adjusted Rating": 8956.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4357,
+    "Name": "Cristian Medina",
+    "Weight": "121 lbs",
+    "Age": "15.5 years",
+    "Weight-Adjusted Rating": 8070.3,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4041,
+    "Name": "vasilios katranis",
+    "Weight": "119 lbs",
+    "Age": "14.5 years",
+    "Weight-Adjusted Rating": 7636.9,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2812,
+    "Name": "Jonathan Fox",
+    "Weight": "118.8 lbs",
+    "Age": "13.9 years",
+    "Weight-Adjusted Rating": 8645.7,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1744,
+    "Name": "Sean Campbell",
+    "Weight": "117 lbs",
+    "Age": "16 years",
+    "Weight-Adjusted Rating": 9168.3,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 505,
+    "Name": "Jason Kwaak",
+    "Weight": "114 lbs",
+    "Age": "14.2 years",
+    "Weight-Adjusted Rating": 8969.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1033,
+    "Name": "Vasili Ragavanis",
+    "Weight": "113.2 lbs",
+    "Age": "14.8 years",
+    "Weight-Adjusted Rating": 8693.6,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 498,
+    "Name": "Amari Murray",
+    "Weight": "113 lbs",
+    "Age": "11.9 years",
+    "Weight-Adjusted Rating": 7478,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 786,
+    "Name": "Yerik Guardado",
+    "Weight": "113 lbs",
+    "Age": "11.7 years",
+    "Weight-Adjusted Rating": 6777.9,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 586,
+    "Name": "Lex Luthor Key",
+    "Weight": "112.2 lbs",
+    "Age": "12.5 years",
+    "Weight-Adjusted Rating": 6577.6,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1748,
+    "Name": "jason euceda",
+    "Weight": "112 lbs",
+    "Age": "15.4 years",
+    "Weight-Adjusted Rating": 8567.2,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 976,
+    "Name": "Christian Caccavale",
+    "Weight": "111.4 lbs",
+    "Age": "12.4 years",
+    "Weight-Adjusted Rating": 7217.8,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4333,
+    "Name": "Kingston Strouse",
+    "Weight": "110.4 lbs",
+    "Age": "13.8 years",
+    "Weight-Adjusted Rating": 7483.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 495,
+    "Name": "Camryn Howard",
+    "Weight": "110 lbs",
+    "Age": "12.4 years",
+    "Weight-Adjusted Rating": 8624.8,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 644,
+    "Name": "Anthony Severino",
+    "Weight": "110 lbs",
+    "Age": "12.9 years",
+    "Weight-Adjusted Rating": 7493.9,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 5252,
+    "Name": "Michael Murphy",
+    "Weight": "110 lbs",
+    "Age": "14.1 years",
+    "Weight-Adjusted Rating": 7325.5,
+    "Status": "Add to pool",
+    "Weighed In?": "Submit weigh infitness_center",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1755,
+    "Name": "Michael Cea",
+    "Weight": "108.6 lbs",
+    "Age": "13.7 years",
+    "Weight-Adjusted Rating": 6740.7,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 541,
+    "Name": "Gryffin Alfalla",
+    "Weight": "108 lbs",
+    "Age": "12.4 years",
+    "Weight-Adjusted Rating": 7822.3,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4600,
+    "Name": "jack sklar",
+    "Weight": "107 lbs",
+    "Age": "16.4 years",
+    "Weight-Adjusted Rating": 7784.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3189,
+    "Name": "Ryan Maiorana",
+    "Weight": "106.2 lbs",
+    "Age": "14.6 years",
+    "Weight-Adjusted Rating": 7843.2,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 465,
+    "Name": "Jackson Ainsley",
+    "Weight": "101.4 lbs",
+    "Age": "11.2 years",
+    "Weight-Adjusted Rating": 7248.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1753,
+    "Name": "Michael Kerr",
+    "Weight": "100 lbs",
+    "Age": "15 years",
+    "Weight-Adjusted Rating": 7897.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2369,
+    "Name": "Julian Medina",
+    "Weight": "99.8 lbs",
+    "Age": "13.7 years",
+    "Weight-Adjusted Rating": 6925.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2512,
+    "Name": "Kyle Francis",
+    "Weight": "99.8 lbs",
+    "Age": "11.6 years",
+    "Weight-Adjusted Rating": 7158.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 966,
+    "Name": "Max Granville",
+    "Weight": "99 lbs",
+    "Age": "12.3 years",
+    "Weight-Adjusted Rating": 6366.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3758,
+    "Name": "Jack Mcdonnell",
+    "Weight": "99 lbs",
+    "Age": "12.6 years",
+    "Weight-Adjusted Rating": 5879.8,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 483,
+    "Name": "Niason Dacosta",
+    "Weight": "98 lbs",
+    "Age": "13.8 years",
+    "Weight-Adjusted Rating": 8220.8,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 973,
+    "Name": "Ryan Muller",
+    "Weight": "97 lbs",
+    "Age": "12.1 years",
+    "Weight-Adjusted Rating": 6105.7,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 776,
+    "Name": "logan durant",
+    "Weight": "96.2 lbs",
+    "Age": "8.8 years",
+    "Weight-Adjusted Rating": 5465.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4796,
+    "Name": "Tyler Brown",
+    "Weight": "94.8 lbs",
+    "Age": "7.5 years",
+    "Weight-Adjusted Rating": 5643.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 482,
+    "Name": "Darren chandarjit",
+    "Weight": "90 lbs",
+    "Age": "10.3 years",
+    "Weight-Adjusted Rating": 6021.9,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 466,
+    "Name": "Matt McDermott",
+    "Weight": "87 lbs",
+    "Age": "11.5 years",
+    "Weight-Adjusted Rating": 7554.6,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 467,
+    "Name": "Lukas Ryan",
+    "Weight": "85.6 lbs",
+    "Age": "11.1 years",
+    "Weight-Adjusted Rating": 6792.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 623,
+    "Name": "joseph kokolakis",
+    "Weight": "83.4 lbs",
+    "Age": "10.8 years",
+    "Weight-Adjusted Rating": 5597,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1886,
+    "Name": "Joshua Bender",
+    "Weight": "83.4 lbs",
+    "Age": "12.6 years",
+    "Weight-Adjusted Rating": 6247.9,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 937,
+    "Name": "Dylan Tuthill",
+    "Weight": "82.8 lbs",
+    "Age": "10.9 years",
+    "Weight-Adjusted Rating": 6290,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4795,
+    "Name": "Lucas Weidler",
+    "Weight": "82 lbs",
+    "Age": "9.8 years",
+    "Weight-Adjusted Rating": 4727.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4567,
+    "Name": "Anthony Ciaramitaro",
+    "Weight": "81.2 lbs",
+    "Age": "11.6 years",
+    "Weight-Adjusted Rating": 5195.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 486,
+    "Name": "Nikita \"The Guillotine\" Grigoryan",
+    "Weight": "79 lbs",
+    "Age": "12.4 years",
+    "Weight-Adjusted Rating": 6544.2,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2327,
+    "Name": "Giuseppe Calabrese",
+    "Weight": "79 lbs",
+    "Age": "10.6 years",
+    "Weight-Adjusted Rating": 5714.2,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4798,
+    "Name": "Jimmy Wynne",
+    "Weight": "79 lbs",
+    "Age": "8.2 years",
+    "Weight-Adjusted Rating": 4937.4,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1745,
+    "Name": "Kevin \"The Beast\" Rivas",
+    "Weight": "78.6 lbs",
+    "Age": "12.3 years",
+    "Weight-Adjusted Rating": 6249.2,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2175,
+    "Name": "Gavin Lane",
+    "Weight": "78.4 lbs",
+    "Age": "10.8 years",
+    "Weight-Adjusted Rating": 6912.4,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1056,
+    "Name": "Michael Cerullo",
+    "Weight": "78 lbs",
+    "Age": "10.4 years",
+    "Weight-Adjusted Rating": 5380.7,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2295,
+    "Name": "Paul Testa",
+    "Weight": "76.4 lbs",
+    "Age": "10.8 years",
+    "Weight-Adjusted Rating": 5949,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1891,
+    "Name": "Lorenzo Gaudioso",
+    "Weight": "76 lbs",
+    "Age": "10.7 years",
+    "Weight-Adjusted Rating": 4600.5,
+    "Status": "Add to pool",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1747,
+    "Name": "AJ Porelli",
+    "Weight": "75.2 lbs",
+    "Age": "11.5 years",
+    "Weight-Adjusted Rating": 5400.6,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 481,
+    "Name": "Luca Visalli",
+    "Weight": "75 lbs",
+    "Age": "7.2 years",
+    "Weight-Adjusted Rating": 4672.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1041,
+    "Name": "Antonio Faldetta",
+    "Weight": "75 lbs",
+    "Age": "12.8 years",
+    "Weight-Adjusted Rating": 6398,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 490,
+    "Name": "Xavier \"XMAN\" Seabury",
+    "Weight": "74.2 lbs",
+    "Age": "11.2 years",
+    "Weight-Adjusted Rating": 6741.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 491,
+    "Name": "Vincent Orandello",
+    "Weight": "74 lbs",
+    "Age": "13.1 years",
+    "Weight-Adjusted Rating": 6521.2,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 5158,
+    "Name": "Ayden Labella",
+    "Weight": "74 lbs",
+    "Age": "13.5 years",
+    "Weight-Adjusted Rating": 5604,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1288,
+    "Name": "Stefan Bacchus",
+    "Weight": "73.8 lbs",
+    "Age": "11.2 years",
+    "Weight-Adjusted Rating": 5214.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1506,
+    "Name": "Greg Bellisari",
+    "Weight": "73.8 lbs",
+    "Age": "10.2 years",
+    "Weight-Adjusted Rating": 5338.7,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2294,
+    "Name": "Jon Mohr",
+    "Weight": "73.5 lbs",
+    "Age": "8.2 years",
+    "Weight-Adjusted Rating": 4088.3,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 461,
+    "Name": "Tyler Conzo",
+    "Weight": "73.2 lbs",
+    "Age": "11.3 years",
+    "Weight-Adjusted Rating": 6845.2,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 600,
+    "Name": "Colton Riordan",
+    "Weight": "71.4 lbs",
+    "Age": "9.1 years",
+    "Weight-Adjusted Rating": 5674.8,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1759,
+    "Name": "Benjamin Marino",
+    "Weight": "71.2 lbs",
+    "Age": "10.8 years",
+    "Weight-Adjusted Rating": 5602.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 479,
+    "Name": "Joseph Costanza",
+    "Weight": "71 lbs",
+    "Age": "8.5 years",
+    "Weight-Adjusted Rating": 5237,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 503,
+    "Name": "Ethan \"the thin\" Hauser",
+    "Weight": "71 lbs",
+    "Age": "12.4 years",
+    "Weight-Adjusted Rating": 6469.9,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4475,
+    "Name": "Tyler Hohlman",
+    "Weight": "70.2 lbs",
+    "Age": "10.5 years",
+    "Weight-Adjusted Rating": 5473.9,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 889,
+    "Name": "Matteo Mancuso",
+    "Weight": "70 lbs",
+    "Age": "10.1 years",
+    "Weight-Adjusted Rating": 5207.2,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4571,
+    "Name": "Riley Hohlman",
+    "Weight": "69 lbs",
+    "Age": "8.8 years",
+    "Weight-Adjusted Rating": 5066.9,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1471,
+    "Name": "Adam Giunta",
+    "Weight": "68.8 lbs",
+    "Age": "7.9 years",
+    "Weight-Adjusted Rating": 4694.6,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 772,
+    "Name": "Anthony Messina",
+    "Weight": "68.2 lbs",
+    "Age": "9 years",
+    "Weight-Adjusted Rating": 4804.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 678,
+    "Name": "Gavin \"The Spider\" Beauchamp",
+    "Weight": "68 lbs",
+    "Age": "10 years",
+    "Weight-Adjusted Rating": 5538.6,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1920,
+    "Name": "Mason Zabielski",
+    "Weight": "68 lbs",
+    "Age": "9.9 years",
+    "Weight-Adjusted Rating": 5002.8,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 478,
+    "Name": "Dominick Visalli",
+    "Weight": "67.6 lbs",
+    "Age": "8.5 years",
+    "Weight-Adjusted Rating": 4456.7,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1038,
+    "Name": "Paul Cozzi",
+    "Weight": "67.6 lbs",
+    "Age": "8 years",
+    "Weight-Adjusted Rating": 4918.6,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 843,
+    "Name": "Santino Pascarella",
+    "Weight": "67 lbs",
+    "Age": "10.8 years",
+    "Weight-Adjusted Rating": 5578.6,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3788,
+    "Name": "Aden Smith",
+    "Weight": "67 lbs",
+    "Age": "6.9 years",
+    "Weight-Adjusted Rating": 3793.6,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4799,
+    "Name": "Riley Goodrich",
+    "Weight": "67 lbs",
+    "Age": "8.6 years",
+    "Weight-Adjusted Rating": 5097.3,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1919,
+    "Name": "Ryan Zabielski",
+    "Weight": "66.6 lbs",
+    "Age": "11.4 years",
+    "Weight-Adjusted Rating": 5016.8,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 544,
+    "Name": "Hunter Alfalla",
+    "Weight": "66 lbs",
+    "Age": "8.6 years",
+    "Weight-Adjusted Rating": 4527.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2447,
+    "Name": "Michael Mcmahon",
+    "Weight": "65 lbs",
+    "Age": "8.6 years",
+    "Weight-Adjusted Rating": 4791.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 489,
+    "Name": "David \"The Bounty Hunter\" Grigoryan",
+    "Weight": "63.6 lbs",
+    "Age": "10.1 years",
+    "Weight-Adjusted Rating": 4845.9,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 607,
+    "Name": "Jake Kiernan",
+    "Weight": "63.4 lbs",
+    "Age": "9.6 years",
+    "Weight-Adjusted Rating": 4688.6,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4033,
+    "Name": "Alexander Canosa",
+    "Weight": "63 lbs",
+    "Age": "9.5 years",
+    "Weight-Adjusted Rating": 4224.2,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 827,
+    "Name": "Junior Perez",
+    "Weight": "62.8 lbs",
+    "Age": "9 years",
+    "Weight-Adjusted Rating": 5299.7,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1742,
+    "Name": "Andrew Caliente",
+    "Weight": "62.6 lbs",
+    "Age": "9 years",
+    "Weight-Adjusted Rating": 4346.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2711,
+    "Name": "Eric Bocanegra",
+    "Weight": "61.5 lbs",
+    "Age": "13 years",
+    "Weight-Adjusted Rating": 5460.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1775,
+    "Name": "William Hall",
+    "Weight": "60.2 lbs",
+    "Age": "8.3 years",
+    "Weight-Adjusted Rating": 3463.4,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2718,
+    "Name": "Colton Louderback",
+    "Weight": "60.2 lbs",
+    "Age": "8.7 years",
+    "Weight-Adjusted Rating": 4856.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4035,
+    "Name": "Liam Foley",
+    "Weight": "58.2 lbs",
+    "Age": "6.6 years",
+    "Weight-Adjusted Rating": 3479.3,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3756,
+    "Name": "Brody Bruno",
+    "Weight": "58 lbs",
+    "Age": "7.5 years",
+    "Weight-Adjusted Rating": 3382.1,
+    "Status": "Add to pool",
+    "Weighed In?": "Submit weigh infitness_center",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4714,
+    "Name": "Ryker Brown",
+    "Weight": "58 lbs",
+    "Age": "6.4 years",
+    "Weight-Adjusted Rating": 2861.7,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 874,
+    "Name": "Dylan Herbert",
+    "Weight": "57 lbs",
+    "Age": "10.2 years",
+    "Weight-Adjusted Rating": 4286.2,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4530,
+    "Name": "Jackson Hull",
+    "Weight": "57 lbs",
+    "Age": "9.4 years",
+    "Weight-Adjusted Rating": 4067.8,
+    "Status": "Add to pool",
+    "Weighed In?": "Submit weigh infitness_center",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2255,
+    "Name": "Robert Udle",
+    "Weight": "56.8 lbs",
+    "Age": "7.4 years",
+    "Weight-Adjusted Rating": 3301.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1066,
+    "Name": "Connor Hanly",
+    "Weight": "56.6 lbs",
+    "Age": "9.5 years",
+    "Weight-Adjusted Rating": 4337.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 597,
+    "Name": "Chase Galvez",
+    "Weight": "56 lbs",
+    "Age": "9.7 years",
+    "Weight-Adjusted Rating": 4665.3,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3754,
+    "Name": "Tristan Reddy",
+    "Weight": "56 lbs",
+    "Age": "6.7 years",
+    "Weight-Adjusted Rating": 2574.8,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1757,
+    "Name": "Brandon Rose",
+    "Weight": "55.8 lbs",
+    "Age": "8.3 years",
+    "Weight-Adjusted Rating": 3394.9,
+    "Status": "Add to pool",
+    "Weighed In?": "Submit weigh infitness_center",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 469,
+    "Name": "Richie Tietjen",
+    "Weight": "55 lbs",
+    "Age": "8.7 years",
+    "Weight-Adjusted Rating": 3562.5,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3763,
+    "Name": "Peter Palumbo",
+    "Weight": "54.4 lbs",
+    "Age": "7.7 years",
+    "Weight-Adjusted Rating": 3167.7,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 5012,
+    "Name": "Frank Vesce",
+    "Weight": "54.4 lbs",
+    "Age": "7.1 years",
+    "Weight-Adjusted Rating": 1935,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2390,
+    "Name": "George Byrd",
+    "Weight": "53.4 lbs",
+    "Age": "5.9 years",
+    "Weight-Adjusted Rating": 2205,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1830,
+    "Name": "Brandon Costello",
+    "Weight": "53.2 lbs",
+    "Age": "8 years",
+    "Weight-Adjusted Rating": 2924.7,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 835,
+    "Name": "Alex Loglisci",
+    "Weight": "52.6 lbs",
+    "Age": "9.6 years",
+    "Weight-Adjusted Rating": 3584.3,
+    "Status": "Add to pool",
+    "Weighed In?": "Submit weigh infitness_center",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1749,
+    "Name": "Maxim Auguste",
+    "Weight": "52.6 lbs",
+    "Age": "7.7 years",
+    "Weight-Adjusted Rating": 3366.7,
+    "Status": "Add to pool",
+    "Weighed In?": "Submit weigh infitness_center",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3764,
+    "Name": "Andrew Palumbo",
+    "Weight": "52.6 lbs",
+    "Age": "7.7 years",
+    "Weight-Adjusted Rating": 2780.2,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2385,
+    "Name": "richard didonato",
+    "Weight": "51.6 lbs",
+    "Age": "5.8 years",
+    "Weight-Adjusted Rating": 1909.4,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3783,
+    "Name": "Jackson Takseraas",
+    "Weight": "50.6 lbs",
+    "Age": "7.7 years",
+    "Weight-Adjusted Rating": 2759.8,
+    "Status": "Add to pool",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4032,
+    "Name": "Giancarlo Ficalora",
+    "Weight": "50.2 lbs",
+    "Age": "5.9 years",
+    "Weight-Adjusted Rating": 2338.9,
+    "Status": "Add to pool",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1930,
+    "Name": "Riely Autera",
+    "Weight": "50 lbs",
+    "Age": "8 years",
+    "Weight-Adjusted Rating": 2647.3,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2394,
+    "Name": "Greyson Larkin",
+    "Weight": "49.4 lbs",
+    "Age": "4.7 years",
+    "Weight-Adjusted Rating": 2197.6,
+    "Status": "Add to pool",
+    "Weighed In?": "Submit weigh infitness_center",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4416,
+    "Name": "Tristan Batohie",
+    "Weight": "49 lbs",
+    "Age": "7 years",
+    "Weight-Adjusted Rating": 2747.8,
+    "Status": "Add to pool",
+    "Weighed In?": "Submit weigh infitness_center",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2384,
+    "Name": "Logan Moskowitz",
+    "Weight": "48 lbs",
+    "Age": "6.2 years",
+    "Weight-Adjusted Rating": 1242.8,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2391,
+    "Name": "Anthony DellUniversita",
+    "Weight": "47.6 lbs",
+    "Age": "5.8 years",
+    "Weight-Adjusted Rating": 1815.8,
+    "Status": "Add to pool",
+    "Weighed In?": "Submit weigh infitness_center",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4531,
+    "Name": "Logan Hull",
+    "Weight": "47.2 lbs",
+    "Age": "6 years",
+    "Weight-Adjusted Rating": 1976.2,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2381,
+    "Name": "Jameson Costello",
+    "Weight": "47 lbs",
+    "Age": "6.5 years",
+    "Weight-Adjusted Rating": 2424.2,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3757,
+    "Name": "Woody Cromarty",
+    "Weight": "47 lbs",
+    "Age": "5.9 years",
+    "Weight-Adjusted Rating": 1328.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1743,
+    "Name": "Griffin Caliente",
+    "Weight": "46.6 lbs",
+    "Age": "6.7 years",
+    "Weight-Adjusted Rating": 2845.9,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2412,
+    "Name": "Colton Stebbins",
+    "Weight": "46.6 lbs",
+    "Age": "5.6 years",
+    "Weight-Adjusted Rating": 2239,
+    "Status": "Add to pool",
+    "Weighed In?": "Submit weigh infitness_center",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 1740,
+    "Name": "joshua castro",
+    "Weight": "46.4 lbs",
+    "Age": "6.9 years",
+    "Weight-Adjusted Rating": 3107.9,
+    "Status": "Add to pool",
+    "Weighed In?": "Submit weigh infitness_center",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 885,
+    "Name": "Dean Carmel",
+    "Weight": "45.2 lbs",
+    "Age": "8.7 years",
+    "Weight-Adjusted Rating": 3299.4,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3770,
+    "Name": "Justin Cerullo",
+    "Weight": "43.6 lbs",
+    "Age": "6.5 years",
+    "Weight-Adjusted Rating": 2234.2,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4034,
+    "Name": "Joseph Canosa",
+    "Weight": "43 lbs",
+    "Age": "6.2 years",
+    "Weight-Adjusted Rating": 2235.8,
+    "Status": "Add to pool",
+    "Weighed In?": "Submit weigh infitness_center",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4700,
+    "Name": "Wesley Lasen",
+    "Weight": "42.2 lbs",
+    "Age": "5.9 years",
+    "Weight-Adjusted Rating": 1718.9,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2387,
+    "Name": "Anthony Giannuzzi",
+    "Weight": "42 lbs",
+    "Age": "5.8 years",
+    "Weight-Adjusted Rating": 1103.7,
+    "Status": "Add to pool",
+    "Weighed In?": "Submit weigh infitness_center",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 2386,
+    "Name": "Enzo Algieri",
+    "Weight": "40 lbs",
+    "Age": "5.5 years",
+    "Weight-Adjusted Rating": 1254.7,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 880,
+    "Name": "Logan Galvez",
+    "Weight": "39.6 lbs",
+    "Age": "6.6 years",
+    "Weight-Adjusted Rating": 3146.2,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3784,
+    "Name": "Colton Takseraas",
+    "Weight": "39.6 lbs",
+    "Age": "5.2 years",
+    "Weight-Adjusted Rating": 1106.9,
+    "Status": "Add to pool",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3759,
+    "Name": "William Garcia",
+    "Weight": "37 lbs",
+    "Age": "4.1 years",
+    "Weight-Adjusted Rating": 299.8,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3782,
+    "Name": "Stephan Kroski",
+    "Weight": "33 lbs",
+    "Age": "3.7 years",
+    "Weight-Adjusted Rating": 114.2,
+    "Status": "Add to pool",
+    "Weighed In?": "Submit weigh infitness_center",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3786,
+    "Name": "Gibson Takseraas",
+    "Weight": "32.6 lbs",
+    "Age": "3.8 years",
+    "Weight-Adjusted Rating": -306.9,
+    "Status": "Add to pool",
+    "Weighed In?": "Submit weigh infitness_center",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 3785,
+    "Name": "Dalton Takseraas",
+    "Weight": "32.4 lbs",
+    "Age": "3.8 years",
+    "Weight-Adjusted Rating": -93,
+    "Status": "Add to pool",
+    "Weighed In?": "Submit weigh infitness_center",
+    "Remove from event": "delete"
+  },
+  {
+    "ID": 4797,
+    "Name": "Darian Bacchus",
+    "Weight": "32 lbs",
+    "Age": "4.7 years",
+    "Weight-Adjusted Rating": 1329.1,
+    "Status": "Remove from poolremove",
+    "Weighed In?": "Yes",
+    "Remove from event": "delete"
+  }
+]

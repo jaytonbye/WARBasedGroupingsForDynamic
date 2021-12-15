@@ -2,7 +2,121 @@
 // Write a function that takes the 6 parameters
 // Make the button click read the 6 inputs and run the function
 
-wrestlerArray = [
+let wrestlerArray;
+
+fetch("output.json")
+  .then((result) => {
+    console.log(result);
+    return result.json();
+  })
+  .then((otherResult) => {
+    wrestlerArray = otherResult;
+
+    //sets up my autocompletes:
+    for (x = 0; x < wrestlerArray.length; x++) {
+      $("#specificWrestlerDatalist").append(
+        `<option>${wrestlerArray[x].name}</option>`
+      );
+    }
+
+    $("#submitButton").click(() => {
+      let minWeight = $("#minimumWeightInput").val();
+      let maxWeight = $("#maximumWeightInput").val();
+      let minWAR = $("#minimumWARInput").val();
+      let maxWAR = $("#maximumWARInput").val();
+      let minAge = $("#minimumAgeInput").val();
+      let maxAge = $("#maximumAgeInput").val();
+      grabTheWrestlers(minWeight, maxWeight, minWAR, maxWAR, minAge, maxAge);
+    });
+
+    $("#submitButtonForSpecificWrestler").click(() => {
+      let weightPercentage = $("#percentageOfWeightInput").val();
+      let WARDifference = $("#WARRangeInput").val();
+      let agePercentage = $("#percentageOfAgeInput").val();
+      let name = $("#specificWrestler").val();
+      grabWrestlersForSpecificWrestler(
+        weightPercentage,
+        WARDifference,
+        agePercentage,
+        name
+      );
+    });
+
+    let grabWrestlersForSpecificWrestler = (
+      weightPercentage,
+      WARDifference,
+      agePercentage,
+      name
+    ) => {
+      $("#tbody").empty();
+      let resultArray = [];
+      let theSpecificWrestlersWeight;
+      let theSpecificWrestlersWAR;
+      let theSpecificWrestlersAge;
+      let theSpecificWrestlersName;
+
+      //finds the weight, WAR, and age of the specific wrestler
+      for (x = 0; x < wrestlerArray.length; x++) {
+        if (wrestlerArray[x].name === name) {
+          theSpecificWrestlersName = wrestlerArray[x].name;
+          theSpecificWrestlersWeight = wrestlerArray[x].weight;
+          theSpecificWrestlersWAR = wrestlerArray[x].weightAdjustedRating;
+          theSpecificWrestlersAge = wrestlerArray[x].age;
+        }
+      }
+
+      let minWeight =
+        theSpecificWrestlersWeight -
+        (theSpecificWrestlersWeight * weightPercentage) / 100;
+      console.log(minWeight);
+      let maxWeight =
+        theSpecificWrestlersWeight +
+        (theSpecificWrestlersWeight * weightPercentage) / 100;
+      console.log(maxWeight);
+      let minWAR = theSpecificWrestlersWAR - Number(WARDifference);
+      let maxWAR = theSpecificWrestlersWAR + Number(WARDifference);
+      console.log(maxWAR);
+      let minAge =
+        theSpecificWrestlersAge -
+        (theSpecificWrestlersAge * agePercentage) / 100;
+      let maxAge =
+        theSpecificWrestlersAge +
+        (theSpecificWrestlersAge * agePercentage) / 100;
+
+      grabTheWrestlers(minWeight, maxWeight, minWAR, maxWAR, minAge, maxAge);
+    };
+
+    let grabTheWrestlers = (
+      minWeight,
+      maxWeight,
+      minWAR,
+      maxWAR,
+      minAge,
+      maxAge
+    ) => {
+      let resultArray = [];
+      for (x = 0; x < wrestlerArray.length; x++) {
+        if (
+          wrestlerArray[x].weight >= minWeight &&
+          wrestlerArray[x].weight <= maxWeight &&
+          wrestlerArray[x].weightAdjustedRating >= minWAR &&
+          wrestlerArray[x].weightAdjustedRating <= maxWAR &&
+          wrestlerArray[x].age >= minAge &&
+          wrestlerArray[x].age <= maxAge
+        ) {
+          resultArray.push(wrestlerArray[x]);
+        }
+      }
+
+      $("#tbody").empty();
+      for (x = 0; x < resultArray.length; x++) {
+        $("#tbody").append(
+          `<tr><td>${resultArray[x].name}</td><td>${resultArray[x].weight}</td><td>${resultArray[x].weightAdjustedRating}</td><td>${resultArray[x].age}</td></tr>`
+        );
+      }
+    };
+  });
+oldWrestlerArray = [
   {
     name: "Lucas Winn",
     weight: 206,
@@ -1211,105 +1325,3 @@ wrestlerArray = [
     weightAdjustedRating: 1329.1,
   },
 ];
-
-//sets up my autocompletes:
-for (x = 0; x < wrestlerArray.length; x++) {
-  $("#specificWrestlerDatalist").append(
-    `<option>${wrestlerArray[x].name}</option>`
-  );
-}
-
-$("#submitButton").click(() => {
-  let minWeight = $("#minimumWeightInput").val();
-  let maxWeight = $("#maximumWeightInput").val();
-  let minWAR = $("#minimumWARInput").val();
-  let maxWAR = $("#maximumWARInput").val();
-  let minAge = $("#minimumAgeInput").val();
-  let maxAge = $("#maximumAgeInput").val();
-  grabTheWrestlers(minWeight, maxWeight, minWAR, maxWAR, minAge, maxAge);
-});
-
-$("#submitButtonForSpecificWrestler").click(() => {
-  let weightPercentage = $("#percentageOfWeightInput").val();
-  let WARDifference = $("#WARRangeInput").val();
-  let agePercentage = $("#percentageOfAgeInput").val();
-  let name = $("#specificWrestler").val();
-  grabWrestlersForSpecificWrestler(
-    weightPercentage,
-    WARDifference,
-    agePercentage,
-    name
-  );
-});
-
-let grabWrestlersForSpecificWrestler = (
-  weightPercentage,
-  WARDifference,
-  agePercentage,
-  name
-) => {
-  $("#tbody").empty();
-  let resultArray = [];
-  let theSpecificWrestlersWeight;
-  let theSpecificWrestlersWAR;
-  let theSpecificWrestlersAge;
-  let theSpecificWrestlersName;
-
-  //finds the weight, WAR, and age of the specific wrestler
-  for (x = 0; x < wrestlerArray.length; x++) {
-    if (wrestlerArray[x].name === name) {
-      theSpecificWrestlersName = wrestlerArray[x].name;
-      theSpecificWrestlersWeight = wrestlerArray[x].weight;
-      theSpecificWrestlersWAR = wrestlerArray[x].weightAdjustedRating;
-      theSpecificWrestlersAge = wrestlerArray[x].age;
-    }
-  }
-
-  let minWeight =
-    theSpecificWrestlersWeight -
-    (theSpecificWrestlersWeight * weightPercentage) / 100;
-  console.log(minWeight);
-  let maxWeight =
-    theSpecificWrestlersWeight +
-    (theSpecificWrestlersWeight * weightPercentage) / 100;
-  console.log(maxWeight);
-  let minWAR = theSpecificWrestlersWAR - Number(WARDifference);
-  let maxWAR = theSpecificWrestlersWAR + Number(WARDifference);
-  console.log(maxWAR);
-  let minAge =
-    theSpecificWrestlersAge - (theSpecificWrestlersAge * agePercentage) / 100;
-  let maxAge =
-    theSpecificWrestlersAge + (theSpecificWrestlersAge * agePercentage) / 100;
-
-  grabTheWrestlers(minWeight, maxWeight, minWAR, maxWAR, minAge, maxAge);
-};
-
-let grabTheWrestlers = (
-  minWeight,
-  maxWeight,
-  minWAR,
-  maxWAR,
-  minAge,
-  maxAge
-) => {
-  let resultArray = [];
-  for (x = 0; x < wrestlerArray.length; x++) {
-    if (
-      wrestlerArray[x].weight >= minWeight &&
-      wrestlerArray[x].weight <= maxWeight &&
-      wrestlerArray[x].weightAdjustedRating >= minWAR &&
-      wrestlerArray[x].weightAdjustedRating <= maxWAR &&
-      wrestlerArray[x].age >= minAge &&
-      wrestlerArray[x].age <= maxAge
-    ) {
-      resultArray.push(wrestlerArray[x]);
-    }
-  }
-
-  $("#tbody").empty();
-  for (x = 0; x < resultArray.length; x++) {
-    $("#tbody").append(
-      `<tr><td>${resultArray[x].name}</td><td>${resultArray[x].weight}</td><td>${resultArray[x].weightAdjustedRating}</td><td>${resultArray[x].age}</td></tr>`
-    );
-  }
-};
